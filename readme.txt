@@ -109,6 +109,7 @@ There are opportunities for developers at all levels to contribute. [Learn more 
 * Contact Form: allow site owners to set value for each option field via the shortcode. #5351
 * JSON API: allow updating translations from the API. #5552, #5594
 * JSON API: allow alternative theme installation methods via the API. #5704
+* JSON API: Public Custom Post Types are now automatically available via the WordPress.com REST API as well. #5487
 * Monitor: email checkbox with a link to manage settings on WordPress.com. #5751
 * Related Posts: allow updating Related Posts options from the customizer. #4293
 * Related Posts: add a filter allowing site owners to customize the output of the Related Posts headline. #5740
