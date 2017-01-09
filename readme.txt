@@ -101,6 +101,7 @@ There are opportunities for developers at all levels to contribute. [Learn more 
 * Protect: deactivate Protect and show an admin notice if a server is misconfigured and we can't get an IP address. #5866
 * WPML: fixed the loading of the compatibility file for WPML so it loads at the right time. #5588
 * Sync: further improve Jetpack's synchronization process to support more plugins. #5671
+* WooCommerce: sync selected WooCommerce data (order items and order item meta) to WordPress.com. #5708
 
 **Enhancements**
 
