@@ -93,6 +93,7 @@ There are opportunities for developers at all levels to contribute. [Learn more 
 * Sharing: ReCaptcha error fix for the Email sharing button. #5548
 * Shortcodes: add several new shortcodes. #5838, #5917
 * Shorcodes: remove the blip.tv shortcode, as the service is now extinct. #5853
+* Shortcodes: make sure Instagram embeds load when using Infinite Scroll. #5963
 * Widget Visibility: allow display of empty categories in the dropdowns. #5770
 * Widgets: various layout fixes for multiple widgets in the customizer and in the Widgets admin screen. #5905
 * Widgets: Translate: display default title if no custom title was set. #5906
