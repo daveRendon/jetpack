@@ -115,6 +115,7 @@ There are opportunities for developers at all levels to contribute. [Learn more 
 * Sharing: add new variables for the custom sharing buttons. #5832
 * Theme Tools: add new Content Options to the customizer for supported themes. #5825
 * Theme Tools: load Holiday Snow in Footer Instead of Head. #5931
+* VideoPress: refreshed admin interface, seamless integration with the core Media manager, tied with Jetpack Plans. #5457
 * Widgets: add Blog Stats, Authors, Follow, Milestone. #5497, #5511, #5615
 * Widgets: add Tumblr and Twitch to Social Media Icons Widget. #5777, #5799
 
