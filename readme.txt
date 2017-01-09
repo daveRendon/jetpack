@@ -97,6 +97,7 @@ There are opportunities for developers at all levels to contribute. [Learn more 
 * Shortcodes: make sure Instagram embeds load when using Infinite Scroll. #5963
 * Shortcodes: the jQuery Cycle script used by slideshow galleries is now minified resulting in faster loading times. #6024
 * Sync: set a default time limit of 30 seconds when sending sync requests via Cron. #5996
+* Sync: synchronize supported shortcodes on a site. #6030
 * Widget Visibility: allow display of empty categories in the dropdowns. #5770
 * Widgets: various layout fixes for multiple widgets in the customizer and in the Widgets admin screen. #5905
 * Widgets: Translate: display default title if no custom title was set. #5906
