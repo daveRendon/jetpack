@@ -118,6 +118,7 @@ There are opportunities for developers at all levels to contribute. [Learn more 
 * Related Posts: allow updating Related Posts options from the customizer. #4293
 * Related Posts: add a filter allowing site owners to customize the output of the Related Posts headline. #5740
 * Sharing: add new variables for the custom sharing buttons. #5832
+* Stats: always use HTTPS when making Stats queries. #5968
 * Theme Tools: add new Content Options to the customizer for supported themes. #5825
 * Theme Tools: load Holiday Snow in Footer Instead of Head. #5931
 * VideoPress: refreshed admin interface, seamless integration with the core Media manager, tied with Jetpack Plans. #5457
