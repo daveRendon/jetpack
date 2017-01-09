@@ -113,6 +113,7 @@ There are opportunities for developers at all levels to contribute. [Learn more 
 
 **Enhancements**
 
+* Ads: a new module to allow you to display High Quality Ads on your site, and generate income from your site. #5465
 * Carousel: add Carousel view for single images. #5469
 * Cli: add `sync` commands to Jetpack's WP Cli commands. #5933
 * Contact Form: allow site owners to set value for each option field via the shortcode. #5351
