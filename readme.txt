@@ -89,6 +89,7 @@ There are opportunities for developers at all levels to contribute. [Learn more 
 * General: fix a bug that would display the wrong connected user for up to 24 hours after they disconnect. #5835
 * Infinite Scroll: remove deprecated function call to prevent notices when using Infinite Scroll in Customizer. #5934
 * JSON API: allow creating a child category from WordPress.com. #5856
+* Related Posts: a colon is no longer added using CSS after "Related" heading when using Twenty Fourteen or Twenty Sixteen themes. #5932
 * Sharing: ReCaptcha error fix for the Email sharing button. #5548
 * Shortcodes: add several new shortcodes. #5838, #5917
 * Shorcodes: remove the blip.tv shortcode, as the service is now extinct. #5853
