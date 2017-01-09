@@ -129,6 +129,7 @@ There are opportunities for developers at all levels to contribute. [Learn more 
 * Widgets: add Tumblr and Twitch to Social Media Icons Widget. #5777, #5799
 * Widgets: improve Facebook widget settings to avoid confusion when editing width and height settings. #6012
 * Widgets: changes to Image Widget settings to provide more explanation and better error messages. #6013
+* Widgets: Display Posts: improve error messages displayed to site admins. #6015
 
 = 4.4.2 =
 
