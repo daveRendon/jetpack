@@ -99,6 +99,7 @@ There are opportunities for developers at all levels to contribute. [Learn more 
 * Widget Visibility: allow display of empty categories in the dropdowns. #5770
 * Widgets: various layout fixes for multiple widgets in the customizer and in the Widgets admin screen. #5905
 * Widgets: Translate: display default title if no custom title was set. #5906
+* Widgets: Top Posts: avoid layout issues when using Grid layout and when a post doesn't include an image. #6014
 
 **Improved Compatibility:**
 
