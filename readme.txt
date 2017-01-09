@@ -126,6 +126,7 @@ There are opportunities for developers at all levels to contribute. [Learn more 
 * VideoPress: refreshed admin interface, seamless integration with the core Media manager, tied with Jetpack Plans. #5457
 * Widgets: add Blog Stats, Authors, Follow, Milestone. #5497, #5511, #5615
 * Widgets: add Tumblr and Twitch to Social Media Icons Widget. #5777, #5799
+* Widgets: improve Facebook widget settings to avoid confusion when editing width and height settings. #6012
 
 = 4.4.2 =
 
