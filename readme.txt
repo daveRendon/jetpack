@@ -83,7 +83,7 @@ There are opportunities for developers at all levels to contribute. [Learn more 
 **Bug Fixes**
 
 * Admin Page: numerous design improvements. #5976, #5978, #5983
-* Admin Page: accessibility improvements. #5998
+* Admin Page: accessibility improvements. #5998 #6023
 * Carousel: fix infinite loop on posts that have attachments that were returning null. #5867
 * Cli: avoid PHP Notice when running `wp jetpack` from the command line. #5874
 * Custom Content Types: avoid PHP warnings in the Restaurant Menu Post type. #5777
